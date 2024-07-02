@@ -1,0 +1,45 @@
+﻿  3ugla.cpp
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(10,2): error C2535: treugolnik::treugolnik(void): функция-член уже определена или объявлена
+  4ugla.cpp
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(18,2): error C2535: pryamougolnii_treugolnik::pryamougolnii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(26,2): error C2535: ravnobedrenii_treugolnik::ravnobedrenii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(34,2): error C2535: ravnostoronii_treugolnik::ravnostoronii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(6,14): error C2084: функция "treugolnik::treugolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(11,95): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(12,28): error C2084: функция "pryamougolnii_treugolnik::pryamougolnii_treugolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(12,55): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(17,95): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(18,28): error C2084: функция "ravnobedrenii_treugolnik::ravnobedrenii_treugolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(18,55): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(23,95): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(24,28): error C2084: функция "ravnostoronii_treugolnik::ravnostoronii_treugolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.cpp(24,55): error C2264: treugolnik::treugolnik: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(10,2): error C2535: kvadrat::kvadrat(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(18,2): error C2535: pryamougolnik::pryamougolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(26,2): error C2535: chetyrehugolnik::chetyrehugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(35,2): error C2535: parallerogramm::parallerogramm(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(43,2): error C2535: romb::romb(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(6,14): error C2084: функция "kvadrat::kvadrat(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(11,87): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(12,17): error C2084: функция "pryamougolnik::pryamougolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(12,33): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(17,91): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(18,19): error C2084: функция "chetyrehugolnik::chetyrehugolnik(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(18,37): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(24,89): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(25,18): error C2084: функция "parallerogramm::parallerogramm(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(25,35): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(30,69): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(31,8): error C2084: функция "romb::romb(void)" уже имеет текст реализации
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.cpp(31,15): error C2264: kvadrat::kvadrat: ошибка в определении или объявлении функции; функция не вызвана
+  home-2-6-3.cpp
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(10,2): error C2535: treugolnik::treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(18,2): error C2535: pryamougolnii_treugolnik::pryamougolnii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(26,2): error C2535: ravnobedrenii_treugolnik::ravnobedrenii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\3ugla.h(34,2): error C2535: ravnostoronii_treugolnik::ravnostoronii_treugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(10,2): error C2535: kvadrat::kvadrat(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(18,2): error C2535: pryamougolnik::pryamougolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(26,2): error C2535: chetyrehugolnik::chetyrehugolnik(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(35,2): error C2535: parallerogramm::parallerogramm(void): функция-член уже определена или объявлена
+E:\VisualStudio\home\home-2-6-3\home-2-6-3\4ugla.h(43,2): error C2535: romb::romb(void): функция-член уже определена или объявлена
+  Создание кода...
