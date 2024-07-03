@@ -5,7 +5,6 @@ class treugolnik {
 protected:
 	int a, b, c, A, B, C;
 public:
-	treugolnik() {};
 	treugolnik(int a, int b, int c, int A, int B, int C);
 	treugolnik();
 	void vivod();
@@ -13,7 +12,6 @@ public:
 
 class pryamougolnii_treugolnik : public treugolnik {
 public:
-	pryamougolnii_treugolnik() {};
 	pryamougolnii_treugolnik(int a, int b, int c, int A, int B, int C);
 	pryamougolnii_treugolnik();
 	void vivod();
@@ -21,7 +19,6 @@ public:
 
 class ravnobedrenii_treugolnik : public treugolnik {
 public:
-	ravnobedrenii_treugolnik() {};
 	ravnobedrenii_treugolnik(int a, int b, int c, int A, int B, int C);
 	ravnobedrenii_treugolnik();
 	void vivod();
@@ -29,7 +26,6 @@ public:
 
 class ravnostoronii_treugolnik : public treugolnik {
 public:
-	ravnostoronii_treugolnik() {};
 	ravnostoronii_treugolnik(int a, int b, int c, int A, int B, int C);
 	ravnostoronii_treugolnik();
 	void vivod();

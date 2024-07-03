@@ -5,7 +5,6 @@ class kvadrat {
 protected:
 	int a, b, c, d, A, B, C, D;
 public:
-	kvadrat() {};
 	kvadrat(int a, int b, int c, int d, int A, int B, int C, int D);
 	kvadrat();
 	void vivod();
@@ -13,7 +12,6 @@ public:
 
 class pryamougolnik : public kvadrat {
 public:
-	pryamougolnik() {};
 	pryamougolnik(int a, int b, int c, int d, int A, int B, int C, int D);
 	pryamougolnik();
 	void vivod();
@@ -21,7 +19,6 @@ public:
 
 class chetyrehugolnik : public kvadrat {
 public:
-	chetyrehugolnik() {};
 	chetyrehugolnik(int a, int b, int c, int d, int A, int B, int C, int D);
 	chetyrehugolnik();
 	void vivod();
@@ -30,7 +27,6 @@ public:
 
 class parallerogramm : public kvadrat {
 public:
-	parallerogramm() {};
 	parallerogramm(int a, int b, int c, int d, int A, int B, int C, int D);
 	parallerogramm();
 	void vivod();
@@ -38,7 +34,6 @@ public:
 
 class romb : public kvadrat {
 public:
-	romb() {};
 	romb(int a, int b, int c, int d, int A, int B, int C, int D);
 	romb();
 	void vivod();

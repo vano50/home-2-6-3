@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	kvadrat kvad;
 	parallerogramm paraller;
 	romb romb;
-
+	
 
 	treug.vivod();
 	pryamtreug.vivod();

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\VisualStudio\\home\\home-2-6-3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\home-2-6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\home-2-6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\3ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\3ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\3ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\home-2-6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\home-2-6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\4ugla.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12697010-B598-4A5D-89AE-3263C809081B}|home-2-6-3\\home-2-6-3.vcxproj|solutionrelative:home-2-6-3\\4ugla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "home-2-6-3.cpp",
               "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\home-2-6-3.cpp",
               "RelativeDocumentMoniker": "home-2-6-3\\home-2-6-3.cpp",
               "ToolTip": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\home-2-6-3.cpp",
               "RelativeToolTip": "home-2-6-3\\home-2-6-3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-14T12:36:37.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "3ugla.cpp",
               "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\3ugla.cpp",
               "RelativeDocumentMoniker": "home-2-6-3\\3ugla.cpp",
               "ToolTip": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\3ugla.cpp",
               "RelativeToolTip": "home-2-6-3\\3ugla.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-14T12:42:50.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "3ugla.h",
               "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\3ugla.h",
               "RelativeDocumentMoniker": "home-2-6-3\\3ugla.h",
               "ToolTip": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\3ugla.h",
               "RelativeToolTip": "home-2-6-3\\3ugla.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-14T13:40:29.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "4ugla.cpp",
               "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.cpp",
               "RelativeDocumentMoniker": "home-2-6-3\\4ugla.cpp",
               "ToolTip": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.cpp",
               "RelativeToolTip": "home-2-6-3\\4ugla.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-14T12:43:32.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "4ugla.h",
               "DocumentMoniker": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.h",
               "RelativeDocumentMoniker": "home-2-6-3\\4ugla.h",
               "ToolTip": "E:\\VisualStudio\\home\\home-2-6-3\\home-2-6-3\\4ugla.h",
               "RelativeToolTip": "home-2-6-3\\4ugla.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-14T13:41:00.488Z",
               "EditorCaption": ""
